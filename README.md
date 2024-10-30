@@ -6,7 +6,6 @@ Estrutura do Projeto
 O projeto terá a seguinte estrutura de diretórios e arquivos:
 
 ```bash
-Copiar código
 task_manager/
 ├── main.py               # Arquivo principal para execução
 ├── database/
